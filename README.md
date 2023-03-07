@@ -1,6 +1,6 @@
 - Hello, I’m Konkito Man!
 - I’m interested to make software and games!
-- 🌱 I’m currently learning wgpu, wgsl.
+- 🌱 I’m currently learning wgpu, wgsl and godot.
 - I'm understanding C/C++, C#, Python, Ruby, Go, javascript/typescript, php, rust, java, v, qml, zig.
 - I really understand C/C++, C#, rust, slint, qml.
 - Frameworks/Libraries sdl2, opengl, bevy, raylib, vuejs, angular, react, svelte, tokio, vulkan, slint, iced, wgpu, egui, qt.
